@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/qihongkuang/NetBeansProjects/lexer/src/ast/CharTree.java</file>
+            <file>file:/Users/qihongkuang/NetBeansProjects/lexer/src/ast/AssignTree.java</file>
+            <file>file:/Users/qihongkuang/NetBeansProjects/lexer/src/lexer/Lexer.java</file>
+            <file>file:/Users/qihongkuang/NetBeansProjects/lexer/src/ast/BlockTree.java</file>
+            <file>file:/Users/qihongkuang/NetBeansProjects/lexer/src/ast/StringTypeTree.java</file>
+            <file>file:/Users/qihongkuang/NetBeansProjects/lexer/src/lexer/SourceReader.java</file>
+            <file>file:/Users/qihongkuang/NetBeansProjects/lexer/src/ast/WhileTree.java</file>
+            <file>file:/Users/qihongkuang/NetBeansProjects/lexer/src/ast/FunctionDeclTree.java</file>
+            <file>file:/Users/qihongkuang/NetBeansProjects/lexer/src/ast/BoolTypeTree.java</file>
+            <file>file:/Users/qihongkuang/NetBeansProjects/lexer/src/ast/FloatTree.java</file>
+            <file>file:/Users/qihongkuang/NetBeansProjects/lexer/src/ast/charTypeTree.java</file>
+            <file>file:/Users/qihongkuang/NetBeansProjects/lexer/src/ast/RelOpTree.java</file>
+            <file>file:/Users/qihongkuang/NetBeansProjects/lexer/src/ast/EheadTree.java</file>
+            <file>file:/Users/qihongkuang/NetBeansProjects/lexer/src/ast/DoTree.java</file>
+            <file>file:/Users/qihongkuang/NetBeansProjects/lexer/src/ast/FloatType.java</file>
+            <file>file:/Users/qihongkuang/NetBeansProjects/lexer/src/ast/IntTree.java</file>
+            <file>file:/Users/qihongkuang/NetBeansProjects/lexer/src/ast/NotTree.java</file>
+            <file>file:/Users/qihongkuang/NetBeansProjects/lexer/src/lexer/setup/tokens</file>
+            <file>file:/Users/qihongkuang/NetBeansProjects/lexer/src/compiler/Compiler.java</file>
+            <file>file:/Users/qihongkuang/NetBeansProjects/lexer/src/ast/FormalsTree.java</file>
+            <file>file:/Users/qihongkuang/NetBeansProjects/lexer/src/ast/FFTree.java</file>
+            <file>file:/Users/qihongkuang/NetBeansProjects/lexer/src/ast/SciNTree.java</file>
+            <file>file:/Users/qihongkuang/NetBeansProjects/lexer/src/ast/IntTypeTree.java</file>
+            <file>file:/Users/qihongkuang/NetBeansProjects/lexer/src/ast/powerTree.java</file>
+            <file>file:/Users/qihongkuang/NetBeansProjects/lexer/src/visitor/PrintVisitor.java</file>
+            <file>file:/Users/qihongkuang/NetBeansProjects/lexer/src/ast/DeclTree.java</file>
+            <file>file:/Users/qihongkuang/NetBeansProjects/lexer/src/ast/NegTree.java</file>
+            <file>file:/Users/qihongkuang/NetBeansProjects/lexer/src/ast/ProgramTree.java</file>
+            <file>file:/Users/qihongkuang/NetBeansProjects/lexer/src/parser/Parser.java</file>
+            <file>file:/Users/qihongkuang/NetBeansProjects/lexer/src/ast/IfTree.java</file>
+            <file>file:/Users/qihongkuang/NetBeansProjects/lexer/src/ast/StringTree.java</file>
+            <file>file:/Users/qihongkuang/NetBeansProjects/lexer/src/ast/CallTree.java</file>
+            <file>file:/Users/qihongkuang/NetBeansProjects/lexer/src/ast/MultOpTree.java</file>
+            <file>file:/Users/qihongkuang/NetBeansProjects/lexer/src/ast/ForTree.java</file>
+        </group>
+    </open-files>
+</project-private>
